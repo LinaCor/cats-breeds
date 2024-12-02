@@ -11,6 +11,8 @@ export function Home() {
     getBreeds().then(data => setCats(data))
   }, []);
 
+  console.log(cats)
+
   return (
     <>
       {cats.length ? <CatsList catalog={cats} /> : <Preloader />}

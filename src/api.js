@@ -1,4 +1,4 @@
-import { API_URL, API_KEY } from "./config";
+import { API_URL, API_KEY } from "./config.js";
 
 //получение всех доступных вариантов
 const getBreeds = async () => {

@@ -4,8 +4,8 @@ import { Home } from './pages/Home.js';
 import { Category } from './pages/Category.js';
 import { CategoryCards } from './pages/CategoryCard.js';
 
-import { Routes, Route } from 'react-router-dom';
 
+import { Routes, Route } from 'react-router-dom';
 
 
 function App() {
