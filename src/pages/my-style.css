@@ -107,3 +107,9 @@
 .logo-img {
   max-width: 80px;
 }
+
+.search-btn {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
