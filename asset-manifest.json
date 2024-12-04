@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/cats-breeds/static/css/main.f4c5c36a.css",
-    "main.js": "/cats-breeds/static/js/main.8177905f.js",
+    "main.css": "/cats-breeds/static/css/main.b29fc5e6.css",
+    "main.js": "/cats-breeds/static/js/main.65d16c12.js",
     "static/media/cat-svgrepo-com.svg": "/cats-breeds/static/media/cat-svgrepo-com.d5905a8fd07a0f6791bdc6b99f31ae69.svg",
     "index.html": "/cats-breeds/index.html",
-    "main.f4c5c36a.css.map": "/cats-breeds/static/css/main.f4c5c36a.css.map",
-    "main.8177905f.js.map": "/cats-breeds/static/js/main.8177905f.js.map"
+    "main.b29fc5e6.css.map": "/cats-breeds/static/css/main.b29fc5e6.css.map",
+    "main.65d16c12.js.map": "/cats-breeds/static/js/main.65d16c12.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4c5c36a.css",
-    "static/js/main.8177905f.js"
+    "static/css/main.b29fc5e6.css",
+    "static/js/main.65d16c12.js"
   ]
 }
