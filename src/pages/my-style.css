@@ -113,3 +113,18 @@
   top: 0;
   right: 0;
 }
+
+.input-container {
+  display: flex;
+  justify-content: center;
+}
+
+.row .col.s9 {
+  margin-left: 0;
+}
+
+@media (max-width:480px) {
+  .cats-container {
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  }
+}

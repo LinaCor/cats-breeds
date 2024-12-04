@@ -19,8 +19,8 @@ export function Search({ callback }) {
 
 
   return (
-    <div className="row">
-      <div className="input-field col s6">
+    <div className="row input-container">
+      <div className="input-field col s9 l6">
         <input
           type="search"
           placeholder="search breed..."
